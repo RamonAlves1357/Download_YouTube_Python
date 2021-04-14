@@ -13,7 +13,7 @@
 <p> Caso ultilize essa opção lembre-se de navegar até o diretorio desejado antes de dar o "git clone".</p>
  
 - ou faça o Download Zip:
-<img src="https://github.com/RamonAlves1357/Download_Youtube_Python/blob/master/img/download.jpg"/>
+<img src="https://github.com/RamonAlves1357/Download_YouTube_Python/archive/refs/heads/master.zip"/>
 
 <p> Caso ultilize essa opção lembre-se de estrair os aquivos e salvar em um local que você lembre.</p>
 
